@@ -1,0 +1,53 @@
+.jumbotron{
+    background-image: url('img/kmm.jpg');
+    background-attachment: fixed;
+    color:aliceblue(167, 166, 165);
+    background-size: cover;
+    background-position: 0 -50px;
+    height: 450px;
+    padding-bottom: 550px;
+    text-shadow: 100px;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+#home{
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgb(20, 135, 150);
+}
+
+#aboutthepark{
+    background-image: none;
+    background-color: aqua;
+    background-attachment: fixed;
+}
+#navbar-text{
+    background-color: aqua;
+}
+#conservation{
+    background-image: none;
+    background-size: cover;
+    background-attachment: cover;
+    background-color: aquamarine;
+}
+#photogallery{
+    background-image: url('img/Taman-Nasional-Komodo.jpg');
+    background-size: cover;
+    background-attachment: cover;
+
+}
+.logo{
+    color: rgb(156, 102, 35);
+}
+.aboutme{
+    background-color: rgb(17, 153, 187);
+}
+.contact{
+    background-color: rgb(127, 240, 255);
+}
+
+
+
